@@ -35,7 +35,7 @@ git add README.md \
 git commit -m "Add school and intended major" \
 git push
 
-6. On GitHub, open a pull request **within your fork**:
+6. On GitHub, open a pull request by switching to the pull requests tab and adjusting the options so that it is **within your fork**:
 - From: `writing`
 - To: `main`
 - Make sure you are **not** pull requesting upstream (my repository).  
